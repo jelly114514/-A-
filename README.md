@@ -6,7 +6,7 @@ __提醒猪鼻的自己：__
   `git pull origin main`
 
 从本地更新至仓库：
-  `git add .`
-  `git commit -m "Update main"`
-  `git push origin main`
+  `git add .`  
+  `git commit -m "Update main"`  
+  `git push origin main`  
     
