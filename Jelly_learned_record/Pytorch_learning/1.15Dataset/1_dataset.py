@@ -27,9 +27,14 @@ ants_dataset = My_dataset(root_dir, ants_label_dir)
 bees_label_dir = "bees_image"
 bees_dataset = My_dataset(root_dir, bees_label_dir)
 
+#可以通过+来合并数据集
 train_dataset = ants_dataset + bees_dataset
 print(len(bees_dataset))
 print(len(ants_dataset))
 print(len(train_dataset))
 img, label = train_dataset[124]
 img.show()
+
+
+
+"""是注释"""
