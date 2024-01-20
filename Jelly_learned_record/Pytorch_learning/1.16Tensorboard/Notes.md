@@ -8,7 +8,7 @@
 
 修改端口：
 
-​	ttensorboard --logdir=事件文件所在文件夹名  --port=新的端口
+​	tensorboard --logdir=事件文件所在文件夹名  --port=新的端口
 
 
 
